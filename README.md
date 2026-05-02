@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Divyam Thakur** — currently learning Python from the ground up
+Hi, I'm **Divyam Thakur** currently learning Python from the ground up
 and building small projects every day. My goal is to break into
 **Data Analyst / Junior Data Scientist** roles in the UK.
 
@@ -33,8 +33,8 @@ and building small projects every day. My goal is to break into
 ## 🎯 Roadmap
 
 - [x] Day 1: Variables & basic swap
-- [ ] Coming soon: Loops, lists, functions...
-
+- [x] Day 2: Global Variables and Math
+- [x] Day 3: Data Types
 ---
 
 ## 📫 Connect
